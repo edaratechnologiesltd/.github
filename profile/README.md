@@ -1,4 +1,4 @@
-<h1 align="center">Elimu Bora Solutions Ltd</h1>
+<h1 align="center">EDARA TECHNOLOGIES LTD</h1>
 
 <p align="center">
   <strong>Software that helps Kenyan schools run better.</strong>
@@ -14,7 +14,7 @@
 
 ---
 
-We are a Nairobi-based software company building tools for schools across Kenya. *Elimu Bora* is Swahili for *"quality education"* — the standard we hold ourselves to in everything we build.
+We are a Nairobi-based software company building tools for schools across Kenya, trading as **Elimu Bora ERP** after our flagship product. *Elimu Bora* is Swahili for *"quality education"* — the standard we hold ourselves to in everything we build.
 
 We focus on one thing and do it well: software made for Kenyan schools, shaped by how they actually operate, rather than adapted from generic templates built for somewhere else.
 
